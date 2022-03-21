@@ -1,3 +1,3 @@
-Some text
+Some text!
 
-Yes
+Yes/No
